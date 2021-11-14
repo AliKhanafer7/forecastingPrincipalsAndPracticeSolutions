@@ -90,9 +90,13 @@ The residuals for the `bricksq` dataset are much more autocorrelated, with multi
 
 ## Question 7
 a. True. White noise is normally distributed, and we want our residuals to resemble white noise, indicating that we've captured all possible information from our data
+
 b. False. If the model is overfitted then small residuals means that the model will not generalize well to new data
+
 c. False. Although it's the most commonly used, it's generally best to calculate a number of accuracy measures and compare them
+
 d. False. It's not always the case that a more complicated model will give better forecasts. Your model could be overfitting, in which case you'd have to make it less complicated
+
 e. True. Assuming we're not considering cross-validation, the test set is a good indicator of how well your model is forecasting
 
 ## Question 9
